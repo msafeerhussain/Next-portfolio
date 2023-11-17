@@ -5,7 +5,7 @@ const SocialShare = [
     iconName: "fa fa-facebook",
     link: "https://www.facebook.com/msafeerhussain1214/",
   },
-  { iconName: "fa fa-whatsapp", link: "https://wa.me/+923351806883" },
+  { iconName: "fa fa-whatsapp", link: "https://wa.me/+923220919697" },
   {
     iconName: "fa fa-linkedin",
     link: "https://www.linkedin.com/in/muhammad-safeer-hussain-845538205/",

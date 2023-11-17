@@ -2,20 +2,16 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "   09/2022 - Present",
-    position: " Web Developer",
-    compnayName: "Tech Innovaters",
-    details: `I'm working their on service based criteria as i work on the maintenance of
-    their client's sites or adopting new technology in it.
-    I also changes the client's sites from different programming language to
-    JavaScript Tech Stack.`,
+    year: "   07/2021 - 06/2023",
+    position: "Mern Stack Developer",
+    compnayName: "Freelance Bahawalpur",
+    details: `I'm working their on service based criteria as i work on the maintenance of their client's sites or adopting new technology. I also changes the client's sites from different programming language to JavaScript Tech Stack like next js , react and node`,
   },
   {
-    year: "05/2021 - 08/2022",
-    position: " Web Developer",
+    year: "02/2020 - 05/2021",
+    position: " TechInnovaters",
     compnayName: "Freelance Bahawalpur",
-    details: `I'm working their on product based criteria as i do maintenance of their
-    client's sites or introduce new technology criteria in their sites.`,
+    details: `I'm working their on product based criteria as i do maintenance of their client's sites or introduce new technology criteria in their sites.`,
   },
   
 ];

@@ -9,9 +9,11 @@ const heroContent = {
   heroImage: "/assets/img/hero/Home_Img.jpg",
   heroMobileImage: heroImgMobile,
   heroTitleName: "M.Safeer Hussain",
-  heroDesignation: "JavaScript Enthusiast",
-  heroDescriptions: `I'm a Pakistan based web designer &  developer focused on
-  crafting clean & user‑friendly experiences. I have 2+ year of an experience in javaScript Tech Stack like React & Next JS. I am passionate about building excellent software that improves the lives of those around me.`,
+  heroDesignation: "Mern Stack Developer",
+  heroDescriptions: `Experienced MERN Stack Developer with a solid 3-year
+  track record in full-stack web development. Adept in MongoDB, Express, React, and Node.js. Committed to
+  crafting user-focused solutions and driving efficiency
+  through modern web technology. Eager to contribute deep technical skills and a passion for innovation to a dynamic team.`,
   heroBtn: "About Me",
 };
 

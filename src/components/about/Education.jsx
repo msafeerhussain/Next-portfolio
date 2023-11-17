@@ -2,19 +2,19 @@ import React from "react";
 
 const educationContent = [
   {
-    year: "2024",
+    year: "2023",
     degree: "BS Software Engineering Degree",
     institute: "The Islamia University Of Bahawalpur",
-    details: `3.88 /4 CGPA (6th semester)`,
+    details: `3.88 /4 CGPA+`,
   },
   {
-    year: "2020",
+    year: "2018",
     degree: "FSC Pre-Engineering",
     institute: "GOVT Boys Degree College Block 17",
     details: `951/1100`,
   },
   {
-    year: "2018",
+    year: "2016",
     degree: "Matric ",
     institute: "COEGBHSN#1",
     details: `945/1100`,
